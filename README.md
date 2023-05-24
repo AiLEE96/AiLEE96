@@ -8,7 +8,8 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&&logoColor=white"/><img src="https://img.shields.io/badge/Djanog-092E20?style=for-the-badge&logo=django&&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&&logoColor=white"/>
+<img src="https://img.shields.io/badge/Djanog-092E20?style=for-the-badge&logo=django&&logoColor=black"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&&logoColor=black"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon AWS&&logoColor=blue"/>
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&&logoColor=black"/>
