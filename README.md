@@ -2,15 +2,14 @@
 
 ### 👀About Me
 
-Hi there! 👲I am an cloud engineer. <br/>
+Hi there! 👲I'm an cloud engineer. <br/>
 Who is interested in container environments like Kubernetes and Docker. <br/>
-And I am also highly interested in CI/CD.
+And I'm also highly interested in CI/CD.
 
 ### 📫contacts
 <a href="mailto:dlc12233@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:dlc12233@gmail.com"/></a>
 
 ### 💪Skills
-<br/>
 
 #### 💡used as the main <br/>
 
