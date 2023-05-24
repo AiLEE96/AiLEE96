@@ -1,11 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=308&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97&desc=This%20is%20AiLEE96%20Github&descSize=30&descAlign=63&fontAlignY=40)
 
-## About Me
+### 👀About Me
 
-## contacts
+Hi there! 👲I am an engineer who is interested in container environments like Kubernetes and Docker, and I am also highly interested in CI/CD.
 
-## Skills
+### 📫contacts
+<a href="mailto:dlc12233@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:자신의이메일"/></a>
 
+### 💪Skills
 <br/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&&logoColor=white"/>
@@ -19,7 +21,7 @@
 
 <br/>
 
-## Github Stats
+### Github Stats
 
 <br/>
 
