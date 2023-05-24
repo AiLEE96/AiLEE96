@@ -7,14 +7,18 @@ Who is interested in container environments like Kubernetes and Docker. <br/>
 And I am also highly interested in CI/CD.
 
 ### 📫contacts
-<a href="mailto:dlc12233@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:자신의이메일"/></a>
+<a href="mailto:dlc12233@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:dlc12233@gmail.com"/></a>
 
 ### 💪Skills
 <br/>
 
 #### 💡used as the main <br/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&&logoColor=white"/> <img src="https://img.shields.io/badge/Djanog-092E20?style=for-the-badge&logo=django&&logoColor=black"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&&logoColor=black"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon AWS&&logoColor=blue"/> <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&&logoColor=black"/> <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&&logoColor=black"/> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&&logoColor=black"/> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&&logoColor=white"/> <img src="https://img.shields.io/badge/Djanog-092E20?style=for-the-badge&logo=django&&logoColor=black"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&&logoColor=black"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon AWS&&logoColor=blue"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&&logoColor=black"/> <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&&logoColor=black"/> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&&logoColor=black"/> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&&logoColor=black"/>
 
 <br/>
 
